@@ -1,3 +1,4 @@
 int i=6;
 int j=9;
+int k=3;
 print(i+j);
